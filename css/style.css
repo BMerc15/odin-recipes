@@ -4,5 +4,13 @@ body {
 
 h1 {
     background-color: white;
+}
+
+.centered img {
+    height: 425px;
+    width: auto;
+}
+
+.centered {
     text-align: center;
 }
