@@ -1,6 +1,7 @@
 body {
     background-color: rgb(149, 234, 255);
     font-family: 'Times New Roman', Times, serif;
+    text-align: center;
 }
 
 h1 {
@@ -13,11 +14,11 @@ h2 {
     background-color: white;
 }
 
-.centered img {
+.image-full {
     height: 425px;
     width: auto;
 }
 
-.centered {
-    text-align: center;
+.recipe-list {
+    margin-left: 10%;
 }
