@@ -19,6 +19,11 @@ h2 {
     width: auto;
 }
 
+.image-preview {
+    height: 200px;
+    width: auto;
+}
+
 .main-menu .recipe-list {
     list-style-type: none;
     margin: 0;
@@ -26,5 +31,6 @@ h2 {
 }
 
 .main-menu {
-    
+    margin-left: 20%;
+    margin-right: 20%;
 }
