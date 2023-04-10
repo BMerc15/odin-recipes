@@ -31,8 +31,8 @@ h2 {
 }
 
 .main-menu {
-    margin-left: 20%;
-    margin-right: 20%;
+    padding: 5%;
+    background-color: wheat;
 }
 
 .page-content {
