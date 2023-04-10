@@ -19,8 +19,12 @@ h2 {
     width: auto;
 }
 
-.recipe-list {
+.main-menu .recipe-list {
     list-style-type: none;
     margin: 0;
     padding: 0;
+}
+
+.main-menu {
+    
 }
