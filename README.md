@@ -7,3 +7,7 @@ and images to make a recipe website.
 
 I will also be practicing using git and GitHub while making this project. This will 
 allow me to get comfortable using git and writing good commit messages.
+
+## CSS Foundations
+Website has been and will continue to be updated as I follow along with the CSS
+Foundations section of The Odin Project.
