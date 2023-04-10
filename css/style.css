@@ -3,7 +3,12 @@ body {
 }
 
 h1 {
-    background-color: white;
+    background-color: rgb(0, 80, 155);
+    color: white;
+}
+
+h2 {
+    color: #05633e;
 }
 
 .centered img {
